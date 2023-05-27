@@ -1,0 +1,93 @@
+.one {
+  background-color: #0b69ff;
+}
+
+.two {
+  background-color: #94a3b8;
+}
+
+.three {
+  background-color: #b6c3ca;
+}
+
+.four {
+  background-color: #7683cb;
+}
+
+.five {
+  background-color: #f59e0b;
+}
+
+.six {
+  background-color: #10b981;
+}
+
+.seven {
+  background-color: #f97316;
+}
+
+.eight {
+  background-color: #14b8a6;
+}
+
+.nine {
+  background-color: #b91c1c;
+}
+
+.ten {
+  background-color: #0ea5e9;
+}
+
+.list-container {
+  border: 1px solid #454f84;
+  background: transparent;
+  padding: 10px 15px 10px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  max-width: 250px;
+}
+
+.profile-image {
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 25px;
+  flex-shrink: 0;
+}
+
+.details-container {
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.details {
+  color: #ffffff;
+  font-size: 13px;
+  margin-bottom: 2px;
+}
+
+.icon {
+  height: 25px;
+  width: 25px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.stars {
+  width: 60px;
+  height: 8px;
+}
